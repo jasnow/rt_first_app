@@ -6,4 +6,4 @@ by [Michael Hartl](http://michaelhartl.com/).
 
 [![Build Status](https://travis-ci.org/jasnow/rt_first_app.png)](https://travis-ci.org/jasnow/rt_first_app)
 
-[![Dependency Status](https://gemnasium.com/jasnow/rt_first_app)](https://gemnasium.com/jasnow/rt_first_app.png)
+[![Dependency Status](https://gemnasium.com/jasnow/rt_first_app.png)](https://gemnasium.com/jasnow/rt_first_app.png)
