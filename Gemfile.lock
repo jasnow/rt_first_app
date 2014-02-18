@@ -93,7 +93,7 @@ GEM
     parser (2.1.4)
       ast (~> 1.1)
       slop (~> 3.4, >= 3.4.5)
-    polyglot (0.3.3)
+    polyglot (0.3.4)
     posix-spawn (0.3.8)
     ptools (1.2.2)
     rack (1.5.2)
