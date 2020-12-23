@@ -165,6 +165,7 @@ GEM
 
 PLATFORMS
   x86_64-darwin-16
+  x86_64-linux
 
 DEPENDENCIES
   brakeman
@@ -174,4 +175,4 @@ DEPENDENCIES
   sqlite3
 
 BUNDLED WITH
-   2.2.2
+   2.2.3
