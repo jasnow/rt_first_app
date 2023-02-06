@@ -11,3 +11,4 @@ group :development do
 end
 
 gem "standard", group: [:development, :test]
+gem "ruby_audit"
