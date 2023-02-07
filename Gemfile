@@ -12,3 +12,4 @@ end
 
 gem "standard", group: [:development, :test]
 gem "ruby_audit"
+gem "spektr"
