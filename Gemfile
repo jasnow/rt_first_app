@@ -5,6 +5,7 @@ gem "rails", "7.0.4.2"
 gem "sqlite3"
 gem "overcommit"
 gem "brakeman"
+gem "webrick"
 
 group :development do
   gem "dawnscanner", require: false
