@@ -182,7 +182,7 @@ GEM
       rubocop-ast (>= 1.24.1, < 2.0)
       ruby-progressbar (~> 1.7)
       unicode-display_width (>= 2.4.0, < 3.0)
-    rubocop-ast (1.26.0)
+    rubocop-ast (1.27.0)
       parser (>= 3.2.1.0)
     rubocop-performance (1.15.2)
       rubocop (>= 1.7.0, < 2.0)
@@ -208,6 +208,13 @@ GEM
       tty-spinner
       tty-table
       zeitwerk (>= 2.6)
+    sprockets (4.2.0)
+      concurrent-ruby (~> 1.0)
+      rack (>= 2.2.4, < 4)
+    sprockets-rails (3.4.2)
+      actionpack (>= 5.2)
+      activesupport (>= 5.2)
+      sprockets (>= 3.0.0)
     sqlite3 (1.6.1-x86_64-darwin)
     sqlite3 (1.6.1-x86_64-linux)
     standard (1.24.3)
@@ -258,6 +265,7 @@ DEPENDENCIES
   rails (= 7.0.4.2)
   ruby_audit
   spektr
+  sprockets-rails
   sqlite3
   standard
   webrick
