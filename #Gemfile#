@@ -1,7 +1,5 @@
 source "https://rubygems.org"
 
-gem "rails", "8.1.1"
-
 gem "sqlite3"
 gem "overcommit"
 gem "brakeman"
@@ -13,6 +11,7 @@ group :development do
 end
 
 gem "standard", group: [:development, :test]
+gem "ruby_audit"
 gem "spektr"
 
 gem 'simplecov', require: false, group: :test
